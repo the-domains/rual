@@ -1,0 +1,28 @@
+name: rual
+favicon: null
+layout_spectrum: 0.1689201241824776
+typography_spectrum: 0.6258723388891667
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5650511577259749
+  lightness: 0.30058309645392
+  saturation: 0.7086276421323419
+  rhythmicContrast: 0.6635204930789769
+purpose: []
