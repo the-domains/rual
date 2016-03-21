@@ -1,7 +1,7 @@
 name: rual
 favicon: null
-layout_spectrum: 0.1689201241824776
-typography_spectrum: 0.6258723388891667
+layout_spectrum: 1
+typography_spectrum: 0.17397
 title: Tryout
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.5650511577259749
-  lightness: 0.30058309645392
-  saturation: 0.7086276421323419
+    - '#000000'
+    - '#1f2831'
+    - '#43484b'
+    - '#d1d5e0'
+    - '#8b929d'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.6635204930789769
 purpose: []
